@@ -7,6 +7,5 @@ node_modules/
 out
 tmp
 coverage
-lib/
 .idea
 yarn.lock
