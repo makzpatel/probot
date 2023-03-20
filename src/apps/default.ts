@@ -21,5 +21,4 @@ export function defaultApp(
 
     res.render("probot.handlebars", pkg);
   });
-  router.get("/", (req, res, next) => res.redirect("/probot"));
 }
